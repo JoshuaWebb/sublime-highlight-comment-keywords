@@ -1,0 +1,11 @@
+{
+  // Enable the highlighting of particular keywords in comments
+  "highlight_comment_keywords_enabled": true,
+
+  // "Keyword" : "syntax scope" pairs to be highlighted
+  "highlight_comment_keywords":
+  {
+    "TODO" : "string.quoted",
+    "NOTE" : "punctuation"
+  }
+}

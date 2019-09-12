@@ -1,0 +1,21 @@
+This plugin will highlight given keywords in the comments.
+
+You can enable this through the preferences (or syntax-specific) like so:
+
+```
+{
+    "highlight_comment_keywords_enabled": true,
+}
+```
+
+Keywords and scopes are defined like so:
+
+```
+{
+    "highlight_comment_keywords":
+    {
+        "TODO" : "string.quoted",
+        "NOTE" : "punctuation"
+    }
+}
+```

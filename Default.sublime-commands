@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "HighlightCommentKeywords: Toggle",
+        "command": "toggle_highlight_comment_keywords",
+    }
+]
